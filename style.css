@@ -646,11 +646,14 @@ h4,
 h5,
 h6,
 p,
-label,
-.btn {
+label{
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
+}
+.btn {
+    font-family: "helvetica";
+    font-weight: 400;
 }
 a{
     font-family: "helvetica";
