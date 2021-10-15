@@ -305,6 +305,7 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
+    padding-top: 15px;
 }
 
 .navbar-brand img[src$=svg] {
@@ -317,9 +318,12 @@ a:hover {
 
 .navbar .nav {
     padding-top: 2px;
-    margin-right: -16px;
-    float: right;
+    margin-right: 50px;
     z-index: 1;
+    display: flex;
+    justify-content: space-around;
+    width: 12%;
+    margin-top: inherit;
 }
 
 .nav > li {
@@ -666,10 +670,6 @@ a{
     color: #404040;
 }
 
-
-.container {
-    max-width: 1000px;
-}
 
 .hero-bloc-text {
     font-size: 38px;
