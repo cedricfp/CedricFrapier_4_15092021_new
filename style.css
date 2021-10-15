@@ -365,6 +365,9 @@ a:hover {
     position: relative;
     z-index: 2;
 }
+.form-group{
+    margin-bottom: 10px;
+}
 
 @media (min-width: 768px) {
     .site-navigation {
