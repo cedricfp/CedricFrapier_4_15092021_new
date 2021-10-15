@@ -318,7 +318,7 @@ a:hover {
 
 .navbar .nav {
     padding-top: 2px;
-    margin-right: 50px;
+    margin-right: 150px;
     z-index: 1;
     display: flex;
     justify-content: space-around;
@@ -368,7 +368,6 @@ a:hover {
 .form-group{
     margin-bottom: 10px;
 }
-
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -793,7 +792,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F5A17A!important;
+    color: #424242!important;
 }
 
 .btn-atomic-tangerine {
