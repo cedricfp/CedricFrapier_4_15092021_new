@@ -305,7 +305,6 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
-    padding-top: 15px;
 }
 
 .navbar-brand img[src$=svg] {
