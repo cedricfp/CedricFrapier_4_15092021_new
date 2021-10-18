@@ -959,6 +959,7 @@ h4 {
         text-align: left;
         padding-left: 15px;
         width: 100%;
+        padding: 5px 0px 5px 0px;
     }
     .nav > li:hover {
         background: rgba(0, 0, 0, .08);
