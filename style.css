@@ -370,6 +370,13 @@ a:hover {
 .description{
     font-size: 22px;
 }
+.description-citation{
+    font-size: 22px;
+    font-style: italic;
+}
+.signature{
+    font-size: 15px;
+}
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
