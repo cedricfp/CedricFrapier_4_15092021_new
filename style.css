@@ -367,6 +367,9 @@ a:hover {
 .form-group{
     margin-bottom: 10px;
 }
+.description{
+    font-size: 22px;
+}
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
